@@ -3,4 +3,4 @@
 Install VS Code for Jetson arm edge computers.
 
 clone repository and execute
-$ ./installVSCode.sh
+$ ./install_VSCODE.sh
